@@ -1,4 +1,23 @@
 h1 {
     font-family: Helvetica;
     font-size: 100px;
+    font-weight: bold;
+    text-align: center;
+    background-image: url("./images/pattern.webp");
+    color: khaki;
+}
+.banner {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+#brushes {
+    background-color: mediumspringgreen;
+}
+#frames {
+    background-color: lightcoral;
+}
+#paint {
+    background-color: skyblue;
 }
